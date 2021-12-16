@@ -1,4 +1,4 @@
-@extends('layout.V_template')
+@extends('layout.v_template')
 @section('title','Products')
 
 
